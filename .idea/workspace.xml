@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c08dbcf8-1fb0-4987-98ac-93aab6359277" name="Changes" comment="chapter 1 create1">
-      <change afterPath="$PROJECT_DIR$/chapter2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course_work2" beforeDir="false" afterPath="$PROJECT_DIR$/course_work2" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
