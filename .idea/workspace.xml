@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c08dbcf8-1fb0-4987-98ac-93aab6359277" name="Changes" comment="chapter 1 create1">
-      <change beforePath="$PROJECT_DIR$/chapter1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/course_work2" beforeDir="false" afterPath="$PROJECT_DIR$/course_work2" afterDir="false" />
+    <list default="true" id="c08dbcf8-1fb0-4987-98ac-93aab6359277" name="Changes" comment="PythoSkyPro">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652010663736</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="PythoSkyPro">
+      <created>1652015307726</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1652015307726</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,7 +322,8 @@
     <MESSAGE value="chapter 1 changed" />
     <MESSAGE value="chapter 1 create" />
     <MESSAGE value="chapter 1 create1" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 1 create1" />
+    <MESSAGE value="PythoSkyPro" />
+    <option name="LAST_COMMIT_MESSAGE" value="PythoSkyPro" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonSkypro$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1651607074043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
