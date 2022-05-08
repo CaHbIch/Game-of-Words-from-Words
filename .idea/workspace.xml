@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c08dbcf8-1fb0-4987-98ac-93aab6359277" name="Changes" comment="chapter 1 changed">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2.html" beforeDir="false" />
-    </list>
+    <list default="true" id="c08dbcf8-1fb0-4987-98ac-93aab6359277" name="Changes" comment="chapter 1 create" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -185,7 +182,7 @@
       <workItem from="1651858865888" duration="46000" />
       <workItem from="1651997036804" duration="93000" />
       <workItem from="1652003840337" duration="5001000" />
-      <workItem from="1652008943395" duration="1366000" />
+      <workItem from="1652008943395" duration="1703000" />
     </task>
     <task id="LOCAL-00001" summary="ааааа">
       <created>1652006625839</created>
@@ -215,7 +212,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652009478063</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="chapter 1 create">
+      <created>1652010381871</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652010381871</updated>
+    </task>
+    <task id="LOCAL-00006" summary="chapter 1 create">
+      <created>1652010535151</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652010535151</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,7 +277,8 @@
     <MESSAGE value="ааааа" />
     <MESSAGE value="chapter 2 created'" />
     <MESSAGE value="chapter 1 changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 1 changed" />
+    <MESSAGE value="chapter 1 create" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 1 create" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonSkypro$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1651607074043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
