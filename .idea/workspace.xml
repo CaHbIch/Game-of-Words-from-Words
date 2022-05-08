@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c08dbcf8-1fb0-4987-98ac-93aab6359277" name="Changes" comment="chapter 1 create" />
+    <list default="true" id="c08dbcf8-1fb0-4987-98ac-93aab6359277" name="Changes" comment="chapter 1 create1">
+      <change afterPath="$PROJECT_DIR$/chapter2.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -182,7 +184,7 @@
       <workItem from="1651858865888" duration="46000" />
       <workItem from="1651997036804" duration="93000" />
       <workItem from="1652003840337" duration="5001000" />
-      <workItem from="1652008943395" duration="1703000" />
+      <workItem from="1652008943395" duration="2009000" />
     </task>
     <task id="LOCAL-00001" summary="ааааа">
       <created>1652006625839</created>
@@ -226,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652010535151</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="chapter 1 create1">
+      <created>1652010663736</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1652010663736</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,6 +278,33 @@
             </State>
           </value>
         </entry>
+        <entry key="ab8be753-7198-453e-9b5a-2c9c7e58bda1">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="ab8be753-7198-453e-9b5a-2c9c7e58bda1" value="TOOL_WINDOW" />
       </map>
     </option>
   </component>
@@ -278,7 +314,8 @@
     <MESSAGE value="chapter 2 created'" />
     <MESSAGE value="chapter 1 changed" />
     <MESSAGE value="chapter 1 create" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 1 create" />
+    <MESSAGE value="chapter 1 create1" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 1 create1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonSkypro$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1651607074043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
