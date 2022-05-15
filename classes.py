@@ -1,6 +1,3 @@
-import json
-
-
 class BasicWord:
 
     def __init__(self, word, subwords):
